@@ -1,0 +1,9 @@
+{
+  "name": "assignment-24",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "build": "echo Build complete"
+  }
+}
